@@ -1,0 +1,12 @@
+﻿1. Tweets and Name are not alowed to to have the ">" or ","  operator
+2. Follows is a reserved word. No user is allowed to have the name "Follows"
+3. All Names in the Tweet.txt file exists in the Users.txt.
+4. We have permission to write to the drive. 
+   Writes the error logs to the "C" drive. Can be changed on the config file
+5. User.txt and Tweet.txt file location to be changed to the file location
+6. used Angular so browser support for IE users will be from IE 9 upwards
+
+
+
+Assumed that this is Enterprise System.
+Design leaned more towards DDD, MVC, SOA and TDD

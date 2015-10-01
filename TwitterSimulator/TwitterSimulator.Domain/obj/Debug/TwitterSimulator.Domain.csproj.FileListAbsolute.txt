@@ -1,0 +1,4 @@
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain\bin\Debug\TwitterSimulator.Domain.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain\bin\Debug\TwitterSimulator.Domain.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain\obj\Debug\TwitterSimulator.Domain.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain\obj\Debug\TwitterSimulator.Domain.pdb

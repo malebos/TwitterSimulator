@@ -1,0 +1,8 @@
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\obj\Debug\TwitterSimulator.Domain.Intergration.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\bin\Debug\TwitterSimulator.Domain.Intergration.Tests.dll.config
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\bin\Debug\TwitterSimulator.Domain.Intergration.Tests.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\bin\Debug\TwitterSimulator.Domain.Intergration.Tests.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\bin\Debug\TwitterSimulator.Domain.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\bin\Debug\TwitterSimulator.Domain.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\obj\Debug\TwitterSimulator.Domain.Intergration.Tests.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Domain.Intergration.Tests\obj\Debug\TwitterSimulator.Domain.Intergration.Tests.pdb

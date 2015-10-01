@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSimulator.WebApi.Tests", "TwitterSimulator.WebApi.Tests\TwitterSimulator.WebApi.Tests.csproj", "{C2BD967F-AA7E-4021-9885-10BEB7C1AB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSimulator.WebApi", "TwitterSimulator.WebApi\TwitterSimulator.WebApi.csproj", "{0F712E61-C7DD-4947-AC1A-9AB4EB93812A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSimulator.Domain", "TwitterSimulator.Domain\TwitterSimulator.Domain.csproj", "{E4BB2905-7425-439C-914E-F7F97A148DC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{048CCD49-4F79-44DD-89A0-83A7ABA0164F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSimulator.Domain.Tests", "TwitterSimulator.Domain.Tests\TwitterSimulator.Domain.Tests.csproj", "{CB83E8F4-CC1F-42D5-8462-4894CA6869C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSimulator.Domain.Integration.Tests", "TwitterSimulator.Domain.Integration.Tests\TwitterSimulator.Domain.Integration.Tests.csproj", "{4E06639F-974F-44EA-BA0D-0C0A01BA1273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSimulator.Web", "TwitterSimulator.Web\TwitterSimulator.Web.csproj", "{E4C35416-9096-4423-9324-FA3E867C7B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BD967F-AA7E-4021-9885-10BEB7C1AB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BD967F-AA7E-4021-9885-10BEB7C1AB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BD967F-AA7E-4021-9885-10BEB7C1AB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BD967F-AA7E-4021-9885-10BEB7C1AB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F712E61-C7DD-4947-AC1A-9AB4EB93812A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F712E61-C7DD-4947-AC1A-9AB4EB93812A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F712E61-C7DD-4947-AC1A-9AB4EB93812A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F712E61-C7DD-4947-AC1A-9AB4EB93812A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BB2905-7425-439C-914E-F7F97A148DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BB2905-7425-439C-914E-F7F97A148DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BB2905-7425-439C-914E-F7F97A148DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BB2905-7425-439C-914E-F7F97A148DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB83E8F4-CC1F-42D5-8462-4894CA6869C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB83E8F4-CC1F-42D5-8462-4894CA6869C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB83E8F4-CC1F-42D5-8462-4894CA6869C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB83E8F4-CC1F-42D5-8462-4894CA6869C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E06639F-974F-44EA-BA0D-0C0A01BA1273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E06639F-974F-44EA-BA0D-0C0A01BA1273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E06639F-974F-44EA-BA0D-0C0A01BA1273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E06639F-974F-44EA-BA0D-0C0A01BA1273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C35416-9096-4423-9324-FA3E867C7B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C35416-9096-4423-9324-FA3E867C7B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C35416-9096-4423-9324-FA3E867C7B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C35416-9096-4423-9324-FA3E867C7B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2BD967F-AA7E-4021-9885-10BEB7C1AB68} = {048CCD49-4F79-44DD-89A0-83A7ABA0164F}
+		{CB83E8F4-CC1F-42D5-8462-4894CA6869C2} = {048CCD49-4F79-44DD-89A0-83A7ABA0164F}
+		{4E06639F-974F-44EA-BA0D-0C0A01BA1273} = {048CCD49-4F79-44DD-89A0-83A7ABA0164F}
+	EndGlobalSection
+EndGlobal

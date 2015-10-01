@@ -1,0 +1,16 @@
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\TwitterSimulator.API.dll.config
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\TwitterSimulator.API.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\TwitterSimulator.API.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\Newtonsoft.Json.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Net.Http.Formatting.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Web.Http.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Web.Http.WebHost.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\Newtonsoft.Json.xml
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Net.Http.Formatting.xml
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Web.Http.xml
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Web.Http.WebHost.xml
+C:\Projects\TwitterSimulator\TwitterSimulator.API\obj\Debug\TwitterSimulator.API.csprojResolveAssemblyReference.cache
+C:\Projects\TwitterSimulator\TwitterSimulator.API\obj\Debug\TwitterSimulator.API.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\obj\Debug\TwitterSimulator.API.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\TwitterSimulator.Domain.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\TwitterSimulator.Domain.pdb

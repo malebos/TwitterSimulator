@@ -1,0 +1,6 @@
+C:\Projects\TwitterSimulator\TwitterSimulator.Web\bin\TwitterSimulator.Web.dll.config
+C:\Projects\TwitterSimulator\TwitterSimulator.Web\bin\TwitterSimulator.Web.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Web\bin\TwitterSimulator.Web.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.Web\obj\Debug\TwitterSimulator.Web.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.Web\obj\Debug\TwitterSimulator.Web.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.Web\obj\Debug\TwitterSimulator.Web.csprojResolveAssemblyReference.cache

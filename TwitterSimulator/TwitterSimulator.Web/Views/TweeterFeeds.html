@@ -1,0 +1,19 @@
+﻿
+<div>
+    <div ng-show="vm.Error" style="color:red;">{{vm.Error}}</div>
+
+    <ul>
+        <li ng-repeat="userTweet in vm.UserTweets">
+            @ {{ userTweet.name }}
+
+            <ul>
+                <li ng-repeat="tweet in userTweet.tweets">
+                  
+                    {{ tweet.name + ' : ' +   tweet.message }}
+
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+</div>
