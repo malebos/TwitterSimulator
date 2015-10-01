@@ -14,6 +14,8 @@ namespace TwitterSimulator.Domain.Common
         internal const string InvalidTweeterRecord = "Invalid tweeter record";
         internal const string ProblemsReadingTweetFile = "Problems reading tweet file";
         internal const string ProblemsReadingUserFile = "Problems reading user file";
+        internal const string ProblemGettingUsersTweets = "Problem getting users tweets";
+        
 
         internal const string UsersFilePath = "UsersFilePath";
         internal const string TweetsFilePath = "TweetsFilePath"

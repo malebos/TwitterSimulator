@@ -4,6 +4,8 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using TwitterSimulator.Domain.Common;
+using TwitterSimulator.Domain.Common.Loggings;
 using TwitterSimulator.WebApi.Attributes;
 using TwitterSimulator.WebApi.DataTransferObjects;
 using TwitterSimulator.WebApi.Mappers;
@@ -33,18 +35,30 @@ namespace TwitterSimulator.WebApi.Controllers
 
         // GET WebApi/GetTweets
         public List<UserTweetsDTO> GetTweets()
-        {  
-            var tweets =  _tweetService.GetTweets();
-            var users =  _userService.GetUsers();
-
-            var results = new List<UserTweetsDTO>();
-            foreach (var user in users)
+        {
+            try
             {
-                var userTweets = UserTweetMapper.MapToUserTweets(user, tweets);
-                 results.Add(userTweets);
-            }
+                var tweets = _tweetService.GetTweets();
+                var users = _userService.GetUsers();
 
-            return results;
+                var results = new List<UserTweetsDTO>();
+                foreach (var user in users)
+                {
+                    var userTweets = UserTweetMapper.MapToUserTweets(user, tweets);
+                    results.Add(userTweets);
+                }
+
+                return results;
+             }
+            catch (DomainException domainEx)
+            {
+                throw domainEx;
+            }
+            catch(Exception ex)
+            {
+                Error.Log(Constants.ProblemGettingUserTweets, ex);
+                throw new Exception(Constants.ProblemGettingUserTweets, ex);
+            }
         }
     }
 }
