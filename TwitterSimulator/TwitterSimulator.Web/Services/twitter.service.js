@@ -12,7 +12,7 @@
         return service;
 
         function GetTweets() {
-            return $http.get("http://localhost/TwitterSimulator/WebApi/GetTweets").then(handleSuccess, handleError);//handleError('Error getting all tweets'));
+            return $http.get("http://localhost/WebApi/GetTweets").then(handleSuccess, handleError);//handleError('Error getting all tweets'));
           }
 
         function handleSuccess(response) {

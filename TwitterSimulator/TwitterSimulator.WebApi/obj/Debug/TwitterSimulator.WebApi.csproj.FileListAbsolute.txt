@@ -14,9 +14,9 @@ C:\Projects\TwitterSimulator\TwitterSimulator.API\bin\System.Web.Http.WebHost.xm
 C:\Projects\TwitterSimulator\TwitterSimulator.API\obj\Debug\TwitterSimulator.WebApi.csprojResolveAssemblyReference.cache
 C:\Projects\TwitterSimulator\TwitterSimulator.API\obj\Debug\TwitterSimulator.API.dll
 C:\Projects\TwitterSimulator\TwitterSimulator.API\obj\Debug\TwitterSimulator.API.pdb
-C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\TwitterSimulator.WebApi.dll.config
-C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\TwitterSimulator.WebApi.dll
-C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\TwitterSimulator.WebApi.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\iia.dll.config
+C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\iia.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\iia.pdb
 C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\Newtonsoft.Json.dll
 C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\System.Net.Http.Formatting.dll
 C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\System.Web.Http.dll
@@ -28,5 +28,5 @@ C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\System.Net.Http.Formatt
 C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\System.Web.Http.xml
 C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\bin\System.Web.Http.WebHost.xml
 C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\obj\Debug\TwitterSimulator.WebApi.csprojResolveAssemblyReference.cache
-C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\obj\Debug\TwitterSimulator.WebApi.dll
-C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\obj\Debug\TwitterSimulator.WebApi.pdb
+C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\obj\Debug\iia.dll
+C:\Projects\TwitterSimulator\TwitterSimulator.WebApi\obj\Debug\iia.pdb

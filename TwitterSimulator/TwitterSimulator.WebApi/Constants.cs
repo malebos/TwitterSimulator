@@ -7,6 +7,6 @@ namespace TwitterSimulator.WebApi
 {
     internal class Constants
     {
-        internal const ProblemGettingUserTweets = "Problem getting user tweets";
+        internal const string ProblemGettingUserTweets = "Problem getting user tweets";
     }
 }

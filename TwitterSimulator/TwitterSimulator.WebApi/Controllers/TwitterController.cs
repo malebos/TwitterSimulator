@@ -12,6 +12,7 @@ using TwitterSimulator.WebApi.Mappers;
 using TwitterSimulator.Domain.Entities;
 using TwitterSimulator.Domain.Services;
 using TwitterSimulator.Domain.Interfaces;
+using TwitterSimulator.Domain.Common.Exceptions;
 
 namespace TwitterSimulator.WebApi.Controllers
 {
@@ -33,7 +34,6 @@ namespace TwitterSimulator.WebApi.Controllers
             _userService = userService;
         }
 
-        // GET WebApi/GetTweets
         public List<UserTweetsDTO> GetTweets()
         {
             try
